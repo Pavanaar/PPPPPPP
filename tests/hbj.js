@@ -1,1 +1,3 @@
-ffguy
+function name(params) {
+    
+}
